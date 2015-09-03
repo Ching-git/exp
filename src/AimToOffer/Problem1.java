@@ -1,4 +1,4 @@
-package AimToOffer;
+package aimToOffer;
 
 public class Problem1 {
 
